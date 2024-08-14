@@ -140,5 +140,3 @@
 <br>
 Enjoy Zebra!!
 <br>
-
-![bg](https://cdn.pixabay.com/photo/2017/12/28/07/44/zebra-3044577_1280.jpg)
