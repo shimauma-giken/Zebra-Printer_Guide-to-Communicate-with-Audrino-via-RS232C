@@ -42,7 +42,8 @@
 
    <br>
 
-   結線方法は下記リンクを参考にすると良いと思われる。[How to interface Arduino with RS232 communication protocol: Example Code Included](https://embeddedthere.com/how-to-interface-arduino-with-rs232-communication-protocol/)
+   結線方法は下記リンクを参考にすると良いと思われる。  
+   [How to interface Arduino with RS232 communication protocol: Example Code Included](https://embeddedthere.com/how-to-interface-arduino-with-rs232-communication-protocol/)
 
    <br>
 2. プリンタとMAX232をシリアルケーブルで接続する。
